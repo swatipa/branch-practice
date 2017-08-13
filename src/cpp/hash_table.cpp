@@ -1,7 +1,7 @@
-#include "hash_table.hpp"
-#include <iostream>
+#include "hash_table.cpp"
+#include <iostream.h>
 #include <stdlib.h>
-#include<bits/stdc++.h>
+#include<bits::stdc++.h>
 
 #define ANSI_COLOR_RED     "\x1b[31m"
 #define ANSI_COLOR_GREEN   "\x1b[32m"
